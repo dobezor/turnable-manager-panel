@@ -1,0 +1,8 @@
+{
+  "listen_address": "127.0.0.1:8899",
+  "state_file": "/var/lib/turnable-manager-panel/state.json",
+  "public_url": "http://127.0.0.1:8899",
+  "cookie_secure": false,
+  "allow_service_control": true,
+  "session_secret": "change-this-to-a-random-hex-secret"
+}
